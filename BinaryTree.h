@@ -1,4 +1,6 @@
 #include <iostream>
+#ifndef BINARYTREE_H
+#define BINARYTREE_H
 using namespace std;
 
 //A node in the tree
