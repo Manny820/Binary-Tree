@@ -1,4 +1,8 @@
-  
+#include <iostream>
+#include "BinaryTree.h"
+using namespace std;
+
+
 //Constructor
 BinaryTreeType::BinaryTreeType()
 {
