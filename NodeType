@@ -1,7 +1,0 @@
-//A node in the tree
-struct NodeType
-{
-  int info;
-  NodeType *leftLink;
-  NodeType *rightLink;
-};
